@@ -9,7 +9,6 @@ int main()
     printf("Hello World\n");
     printf("Hello VisualStudio Git!\n");
     printf("Hello New branch\n");
-    printf("masterでローカルを変更！\n");
-    printf("Pull");
+
     return 0;
 }
