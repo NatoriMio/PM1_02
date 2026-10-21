@@ -9,5 +9,7 @@ int main()
     printf("Hello World\n");
     printf("Hello VisualStudio Git!\n");
     printf("Hello New branch\n");
+    printf("Hello GitHub Worid\n");
+    printf("PullRequest branch changed\n");
     return 0;
 }
