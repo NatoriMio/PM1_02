@@ -7,6 +7,7 @@ int main()
     system("chcp 65001 > nul"); // コンソールをUTF-8にする設定
     
     printf("Hello World\n");
+    printf("Hello VisualStudio Git!\n");
 
     return 0;
 }
