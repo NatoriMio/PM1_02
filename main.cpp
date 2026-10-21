@@ -11,5 +11,7 @@ int main()
     printf("Hello New branch\n");
     printf("Hello GitHub Worid\n");
     printf("PullRequest branch changed\n");
+    printf("masterをローカルで変更！\n");
+    printf("Pull");
     return 0;
 }
